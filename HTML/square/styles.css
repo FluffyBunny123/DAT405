@@ -1,0 +1,38 @@
+h1{
+   color: #ccc;
+   padding: 20px;
+}
+
+.newHeadings{
+  font-family: sans-serif;
+  padding: 5px;
+  color: blue;
+}
+
+#lastHeading{
+   font-family: monospace;
+   color: pink;
+   font-size: 23;
+}
+
+header{
+  background-color: black;
+  font-family: monospace;
+  color: Blue;
+  width: 400%;
+  height: 100px;
+}
+footer{
+  background-color: ;
+  width: 400%;
+  height: 100px;
+}
+
+body{
+  display: grid;
+  align-items: center;
+  text-align: center;
+  background-color: grey;
+  padding: 0;
+  margin: 0;
+}
